@@ -1,9 +1,9 @@
 {
     "product":  "Jujo.StreamServer",
-    "version":  "1.0.15",
+    "version":  "1.0.16",
     "platform":  "windows-x64",
     "asset":  "Jujo.StreamServer-win-x64.zip",
-    "sha256":  "79ab586b176a991dfbb86ab7b1fd5df3382c3dfdb50c2b320bec595e4655708d",
+    "sha256":  "90508806351c65b70d5f976d238be9982d0025c7d9a821802ec9822dabc80c3e",
     "entrypoint":  "tools\\sunshinesvc.exe",
     "serviceName":  "Jujo.Server",
     "serviceArguments":  "--service"
