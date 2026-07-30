@@ -1,1 +1,1 @@
-befecc28dd004168168f3af2724bcc10b72c1d5a9b9c0c587915b46e81377376  Jujo.StreamServer-win-x64.zip
+0805b59d691bfe511e0f3bcf01ccd3c745e1dd7c2c2e28c8d73a13ca3ca99a6b  Jujo.StreamServer-win-x64.zip
