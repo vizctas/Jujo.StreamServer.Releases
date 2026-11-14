@@ -10,8 +10,8 @@ Setting up your personal cloud gaming experience is quick and easy.
 
 1. **Download the apps**
    Grab the latest releases for your devices:
-   * [Download Jujo Admin for PC](https://github.com/vizctas/Jujo.StreamServer.Releases/releases/tag/admin-1.0.44)
-   * [Download Jujo Client for Mobile](https://github.com/vizctas/Jujo.StreamServer.Releases/releases/tag/client-1.1.37)
+   * [Download Jujo Admin for PC](https://github.com/vizctas/Jujo.StreamServer.Releases/releases/tag/admin-1.0.46)
+   * [Download Jujo Client for Mobile](https://github.com/vizctas/Jujo.StreamServer.Releases/releases/tag/client-1.1.42)
 
 2. **Deploy the server**
    Open Jujo Admin on your PC. Hit the deploy button and it automatically takes care of the server setup for you. No technical stuff needed.
